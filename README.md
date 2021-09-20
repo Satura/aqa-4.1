@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/dlm16skqs5ynowjf/branch/master?svg=true)](https://ci.appveyor.com/project/Satura/aqa-4-1/branch/master)
